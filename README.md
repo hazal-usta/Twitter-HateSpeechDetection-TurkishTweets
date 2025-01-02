@@ -49,7 +49,6 @@ In order to demonstrate the similarity of such distribution, a plot is depicted 
 
 ![matplot](https://github.com/user-attachments/assets/c0acef40-7411-4cbb-9fab-0c32f8c234c3)
 
-# Classification
 # Cross Validation
 
 In order to measure the performance of my model, I applied cross validation technique with five-folds. After splitting all data into
